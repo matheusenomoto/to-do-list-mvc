@@ -1,0 +1,21 @@
+[
+    {   "id": 0,
+        "title": "Design Patterns",
+        "status": "pending"
+    },
+    {
+        "id": 1,
+        "title": "Algorithms and Data Structures",
+        "status": "pending"
+    },
+    {
+        "id": 2,
+        "title": "Software architecture",
+        "status": "pending"
+    },
+    {
+        "id": 3,
+        "title": "AWS Services",
+        "status": "pending"
+    }
+]
