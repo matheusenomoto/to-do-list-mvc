@@ -1,21 +1,21 @@
 [
     {
-        "id": 0,
-        "description": "Design Patterns",
+        "id": 6,
+        "description": "Software Engineering",
         "status": "pending"
     },
     {
-        "id": 1,
+        "id": 7,
+        "description": "Develop Business Intelligence Dashboard ",
+        "status": "pending"
+    },
+    {
+        "id": 8,
         "description": "Algorithms and Data Structures",
         "status": "pending"
     },
     {
-        "id": 2,
-        "description": "Software architecture",
-        "status": "pending"
-    },
-    {
-        "id": 3,
+        "id": 9,
         "description": "AWS Services",
         "status": "pending"
     }

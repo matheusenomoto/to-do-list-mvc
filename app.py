@@ -1,5 +1,6 @@
 from flask import Flask, render_template, request, redirect, url_for
 from controllers.todo_controller import TodoController
+from datetime import datetime
 
 app = Flask(__name__)
 controller = TodoController()
@@ -7,7 +8,9 @@ controller = TodoController()
 @app.route('/')
 def index():
     tasks = controller.get_all_tasks()
-    return render_template('index.html', tasks=tasks)
+    current_date = datetime.now()
+    formatted_date = current_date.strftime("%Y/%m/%d")
+    return render_template('index.html', tasks=tasks, current_date=formatted_date)
 
 @app.route('/add', methods=['POST'])
 def add_task():
