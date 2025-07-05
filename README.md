@@ -1,10 +1,11 @@
-![image](https://github.com/user-attachments/assets/52af1a45-9da5-4690-b188-0ce2e77fb670)!
 # To-Do List Application (MVC Architecture)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
 ![Flask](https://img.shields.io/badge/Flask-2.3%2B-black?style=for-the-badge&logo=flask&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+
+![image](https://github.com/user-attachments/assets/52af1a45-9da5-4690-b188-0ce2e77fb670)
 
 ## 📖 Project Overview
 
