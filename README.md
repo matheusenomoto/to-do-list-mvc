@@ -1,4 +1,4 @@
-![Uploading image.png…]()
+![image](https://github.com/user-attachments/assets/52af1a45-9da5-4690-b188-0ce2e77fb670)![image](https://github.com/user-attachments/assets/44daf28b-c37b-49fd-a375-4e1835e004af)
 
 # To-Do List Application (MVC Architecture)
 
