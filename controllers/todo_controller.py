@@ -16,7 +16,7 @@ class TodoController:
     def toggle_task_status(self, task_id):
         tasks = self.get_all_tasks()
         current_status = 'pending'
-        for tasks in tasks:
+        for task in tasks:
             if task.get('id') == task_id:
                 current_status = task.get('status')
                 break
