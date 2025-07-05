@@ -1,5 +1,4 @@
-![image](https://github.com/user-attachments/assets/52af1a45-9da5-4690-b188-0ce2e77fb670)![image](https://github.com/user-attachments/assets/44daf28b-c37b-49fd-a375-4e1835e004af)
-
+![image](https://github.com/user-attachments/assets/52af1a45-9da5-4690-b188-0ce2e77fb670)!
 # To-Do List Application (MVC Architecture)
 
 ![Python](https://img.shields.io/badge/Python-3.9%2B-blue?style=for-the-badge&logo=python&logoColor=white)
